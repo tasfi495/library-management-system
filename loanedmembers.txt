@@ -1,0 +1,77 @@
+{
+    "Ray_Nax": [
+        {
+            "book_ID": "B09",
+            "book_name": "Steve Jobs",
+            "genre": "Biography",
+            "author": "Walter Isaacson",
+            "status": "Loaned",
+            "loaned_date": "19-09-2024",
+            "due_date": "27-10-2024",
+            "overdue_fee": 3.0
+        },
+        {
+            "book_ID": "B11",
+            "book_name": "Twenty Thousand Leagues Under the Sea",
+            "genre": "Adventure",
+            "author": "Jules Verne",
+            "status": "Loaned",
+            "loaned_date": "5-10-2024",
+            "due_date": "31-10-2024",
+            "overdue_fee": 0.0
+        },
+        {
+            "book_ID": "B13",
+            "book_name": "The Shining",
+            "genre": "Horror",
+            "author": "Stephen King",
+            "status": "Loaned",
+            "loaned_date": "17-09-2024",
+            "due_date": "29-10-2024",
+            "overdue_fee": 10.0
+        },
+        {
+            "book_ID": "B02",
+            "book_name": "Foundation",
+            "genre": "Science Fiction",
+            "author": "Isaac Asimov",
+            "status": "Loaned",
+            "loaned_date": "27-10-2024",
+            "due_date": "29-10-2024",
+            "overdue_fee": 10.0
+        }
+    ],
+    "Howard_223": [
+        {
+            "book_ID": "B15",
+            "book_name": "How to Win Friends and Influence People",
+            "genre": "Self-help",
+            "author": "Dale Carnegie",
+            "status": "Loaned",
+            "loaned_date": "27-10-2024",
+            "due_date": "09-11-2024",
+            "overdue_fee": 0.0
+        },
+        {
+            "book_ID": "B12",
+            "book_name": "The Road Not Taken",
+            "genre": "Poetry",
+            "author": "Robert Frost",
+            "status": "Loaned",
+            "loaned_date": "27-10-2024",
+            "due_date": "09-11-2024",
+            "overdue_fee": 0.0
+        },
+        {
+            "book_ID": "B14",
+            "book_name": "Death of a Salesman",
+            "genre": "Drama",
+            "author": "Arthur Miller",
+            "status": "Loaned",
+            "loaned_date": "29-10-2024",
+            "due_date": "11-11-2024",
+            "overdue_fee": 0.0
+        }
+    ],
+    "Jamebob": []
+}

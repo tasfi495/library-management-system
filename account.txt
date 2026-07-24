@@ -1,0 +1,82 @@
+{
+    "Member": [
+        {
+            "id": 101,
+            "full_name": "James Bob",
+            "email": "jame@gmail.com",
+            "username": "Jamebob",
+            "password": "Jame1234!",
+            "role": "member",
+            "registration_date": "30-September-2024"
+        },
+        {
+            "id": 102,
+            "full_name": "Ray Nayon",
+            "email": "ray@yahoo.com",
+            "username": "Ray_Nax",
+            "password": "Ray*1125",
+            "role": "member",
+            "registration_date": "30-September-2024"
+        },
+        {
+            "id": 103,
+            "full_name": "Howard",
+            "email": "howard@gmail.com",
+            "username": "Howard_223",
+            "password": "Howard1!",
+            "role": "member",
+            "registration_date": "30-September-2024"
+        }
+    ],
+    "Librarian": [
+        {
+            "id": 101,
+            "full_name": "Ying Q",
+            "email": "ying@mail.com",
+            "username": "Yin_Q",
+            "password": "Yin1928$",
+            "role": "librarian",
+            "registration_date": "30-September-2024"
+        },
+        {
+            "id": 102,
+            "full_name": "Groot",
+            "email": "root@mail.com",
+            "username": "g_Root",
+            "password": "gRoot929&",
+            "role": "librarian",
+            "registration_date": "30-September-2024"
+        }
+    ],
+    "Admin": [
+        {
+            "id": 101,
+            "full_name": "Lb_admin",
+            "email": "admin@mail.com",
+            "username": "admin",
+            "password": "$dmin@99834",
+            "role": "admin",
+            "registration_date": "30-September-2024"
+        },
+        {
+            "id": 102,
+            "full_name": "Lb_admin2",
+            "email": "admin2@mail.com",
+            "username": "admin2",
+            "password": "$Dmin@99835",
+            "role": "admin",
+            "registration_date": "16-October-2024"
+        }
+    ],
+    "Super_Admin": [
+        {
+            "id": 101,
+            "full_name": "sp_admin",
+            "email": "spadmin@mail.com",
+            "username": "super_admin",
+            "password": "$uPer@99787",
+            "role": "super_admin",
+            "registration_date": "30-September-2024"
+        }
+    ]
+}

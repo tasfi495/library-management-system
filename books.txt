@@ -1,0 +1,130 @@
+{
+    "books": [
+        {
+            "book_ID": "B01",
+            "book_name": "1984",
+            "genre": "Fiction",
+            "author": "George Orwell",
+            "status": "Not Loaned"
+        },
+        {
+            "book_ID": "B02",
+            "book_name": "Foundation",
+            "genre": "Science Fiction",
+            "author": "Isaac Asimov",
+            "status": "Not Loaned"
+        },
+        {
+            "book_ID": "B03",
+            "book_name": "Murder on the Orient Express",
+            "genre": "Mystery",
+            "author": "Agatha Christie",
+            "status": "Not Loaned"
+        },
+        {
+            "book_ID": "B04",
+            "book_name": "Harry Potter and the Sorcerer's Stone",
+            "genre": "Fantasy",
+            "author": "J.K. Rowling",
+            "status": "Not Loaned"
+        },
+        {
+            "book_ID": "B05",
+            "book_name": "Sapiens: A Brief History of Humankind",
+            "genre": "Non-fiction",
+            "author": "Yuval Noah Harari",
+            "status": "Not Loaned"
+        },
+        {
+            "book_ID": "B06",
+            "book_name": "The Da Vinci Code",
+            "genre": "Thriller",
+            "author": "Dan Brown",
+            "status": "Not Loaned"
+        },
+        {
+            "book_ID": "B07",
+            "book_name": "The Pillars of the Earth",
+            "genre": "Historical Fiction",
+            "author": "Ken Follett",
+            "status": "Not Loaned"
+        },
+        {
+            "book_ID": "B08",
+            "book_name": "Pride and Prejudice",
+            "genre": "Romance",
+            "author": "Jane Austen",
+            "status": "Not Loaned"
+        },
+        {
+            "book_ID": "B09",
+            "book_name": "Steve Jobs",
+            "genre": "Biography",
+            "author": "Walter Isaacson",
+            "status": "Loaned"
+        },
+        {
+            "book_ID": "B10",
+            "book_name": "A Brief History of Time",
+            "genre": "Science",
+            "author": "Stephen Hawking",
+            "status": "Not Loaned"
+        },
+        {
+            "book_ID": "B11",
+            "book_name": "Twenty Thousand Leagues Under the Sea",
+            "genre": "Adventure",
+            "author": "Jules Verne",
+            "status": "Loaned"
+        },
+        {
+            "book_ID": "B12",
+            "book_name": "The Road Not Taken",
+            "genre": "Poetry",
+            "author": "Robert Frost",
+            "status": "Loaned"
+        },
+        {
+            "book_ID": "B13",
+            "book_name": "The Shining",
+            "genre": "Horror",
+            "author": "Stephen King",
+            "status": "Loaned"
+        },
+        {
+            "book_ID": "B14",
+            "book_name": "Death of a Salesman",
+            "genre": "Drama",
+            "author": "Arthur Miller",
+            "status": "Loaned"
+        },
+        {
+            "book_ID": "B15",
+            "book_name": "How to Win Friends and Influence People",
+            "genre": "Self-help",
+            "author": "Dale Carnegie",
+            "status": "Loaned"
+        },
+        {
+            "book_ID": "B16",
+            "book_name": "Dark Horse",
+            "genre": "Fiction",
+            "author": "Ray",
+            "status": "Not Loaned"
+        },
+        {
+            "book_ID": "B17",
+            "book_name": "The Sun",
+            "genre": "Fiction",
+            "author": "Frank",
+            "status": "Not Loaned"
+        },
+        {
+            "book_ID": "7",
+            "book_name": "t",
+            "genre": "r",
+            "author": "w",
+            "status": "Not Loaned"
+        }
+    ]
+}
